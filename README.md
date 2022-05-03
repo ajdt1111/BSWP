@@ -3,7 +3,7 @@
 ## Introduction
     This work has been accepted at ICASSP 2022.
 ## Requirements
-python3.7 <br>
+python3.6 <br>
 pytorch1.8.0 <br>
 torchvision0.9.0 <br>
 ## Getting Started
